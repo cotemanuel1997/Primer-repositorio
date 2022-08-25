@@ -10,6 +10,9 @@
 #-------------------------------------------------------------------------------
 
 def main():
-
+     numero1=3
+     numero2=4
+     print(numero1+numero2)
+     # Suma de los numeros enteros 3 y 4 y además se muestra el resultado por pantalla
 if __name__ == '__main__':
     main()
